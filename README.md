@@ -2,7 +2,7 @@ Seller Performance Scoring — Brazilian E-Commerce (Olist)
 ML system that scores and segments 1,271 sellers into performance tiers using unsupervised learning — inspired by credit risk underwriting.
 
 ## Live Demo
-
+https://sellersperformancescoring-25qhxrwczrek74nuaugv7x.streamlit.app/
 
 ## Problem
 E-commerce platforms need to identify high-risk sellers early — 
